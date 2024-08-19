@@ -1,3 +1,19 @@
+Description =>
+
+This project is a React application integrated with Leaflet for interactive map visualization. It includes features such as displaying point data on a map, handling map interactions, and using mock APIs to simulate data retrieval for development and testing purposes.
+
+Features => 
+
+Map Integration: Uses Leaflet to display interactive maps with markers.
+Data Visualization: Points are fetched from a mock API and displayed on the map.
+Interactive Elements: Clicking on a marker updates the map view and can trigger additional UI elements (like data cards).
+Technologies Used
+React: JavaScript library for building user interfaces.
+Leaflet: Library for interactive maps.
+Mocky.io: Service for creating mock APIs for development and testing.
+Material-UI: React component library for styling (if used in other parts of the project).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
